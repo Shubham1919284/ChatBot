@@ -17,7 +17,7 @@ A sleek and responsive **Chatbot UI built using Streamlit**, powered by the `Dee
 
 ## 🚀 Demo
 
-![demo](https://github.com/your-username/your-repo-name/assets/demo.gif)
+![demo](https://github.com/Shubham1919284/ChatBot/blob/d8a26cc692be4b757688a4efec265b681abdc7dc/Screenshot%202025-07-19%20030314.png)
 
 ---
 
@@ -108,8 +108,8 @@ You can replace the model with any other  (like `gpt-3.5-turbo`, `mistral`, etc.
 
 | Theme         | Chat View                           |
 |---------------|-------------------------------------|
-| Dark (default) | ![dark](assets/screenshot-dark.png) |
-| Light         | ![light](assets/screenshot-light.png) |
+| Dark (default) | ![dark]([assets/screenshot-dark.png](https://github.com/Shubham1919284/ChatBot/blob/d8a26cc692be4b757688a4efec265b681abdc7dc/Screenshot%202025-07-19%20030314.png)) |
+| Light         | ![light]([assets/screenshot-light.png](https://github.com/Shubham1919284/ChatBot/blob/d8a26cc692be4b757688a4efec265b681abdc7dc/Screenshot%202025-07-19%20030350.png)) |
 
 ---
 
