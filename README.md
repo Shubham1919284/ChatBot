@@ -1,10 +1,10 @@
 # 🤖 DeepSeek Chat – Streamlit UI
 
-A sleek and responsive **Chatbot UI built using Streamlit**, powered by the `DeepSeek` model via **OpenRouter API**. This project mimics a modern ChatGPT-style experience with avatars, markdown rendering, light/dark theme toggle, chat history, and more.
+A sleek and responsive **Chatbot UI built using Streamlit**, powered by the `DeepSeek` model via **API**. This project mimics a modern ChatGPT-style experience with avatars, markdown rendering, light/dark theme toggle, chat history, and more.
 
 ## ✨ Features
 
-- 🧠 **Streamed responses** using OpenRouter API (`deepseek/deepseek-chat`)
+- 🧠 **Streamed responses** using API (`deepseek/deepseek-chat`)
 - 🤖 **Avatars** and markdown-based message bubbles
 - 🌙 **Dark theme enabled by default** with light/dark mode toggle
 - 🕒 **Timestamps** for each chat message
@@ -52,8 +52,8 @@ Then use `python-dotenv` or access it using `os.getenv("OPENROUTER_API_KEY")`.
 #### Option B: Set environment variable (temporary)
 
 ```bash
-export OPENROUTER_API_KEY=your_openrouter_api_key_here  # Mac/Linux
-set OPENROUTER_API_KEY=your_openrouter_api_key_here     # Windows
+export API_KEY=your_api_key_here  # Mac/Linux
+API_KEY=your_api_key_here     # Windows
 ```
 
 > 🔐 *Note: The app has no sidebar and does NOT expose your API key.*
