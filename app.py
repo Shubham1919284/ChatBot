@@ -54,7 +54,7 @@ temperature = 0.7
 max_tokens = 1000
 
 # Load API key from environment variable or fallback
-api_key = os.getenv("OPENROUTER_API_KEY", "your_openrouter_api_key_here")
+api_key = os.getenv("API_KEY", "api_key_here")
 
 # Display chat messages with avatars, timestamps, and markdown support
 for msg in st.session_state.chat_history:
